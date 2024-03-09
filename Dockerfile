@@ -1,4 +1,4 @@
-FROM node:21.0
+FROM node:21.6.2
 
 RUN npm install -g npm@9.1.3
 
